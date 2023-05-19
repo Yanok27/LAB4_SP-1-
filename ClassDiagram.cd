@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab4_1_.Client.DataContext" Collapsed="true">
+    <Position X="7" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client\DataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab4_1_.Client.Menu" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACIgAAEEAAAAAAAAAAAAABAAAACAAABAQA=</HashCode>
+      <FileName>Client\Menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab4_1_.Client.Reader" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab4_1_.Composite.Component" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab4_1_.Composite.Department" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAACgAAAgBAQAAAAAAAAAAAACAAAABAA=</HashCode>
+      <FileName>Composite\Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab4_1_.Composite.Organization" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\Organization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab4_1_.Composite.Position" Collapsed="true">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab4_1_.Startup.ProgramStartup">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Startup\ProgramStartup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="lab4_1_.Client.IMenu" Collapsed="true">
+    <Position X="7" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACIgAAAEAAAAAAAAAAAAABAAAACAAABAQA=</HashCode>
+      <FileName>Client\IMenu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="lab4_1_.Startup.IStartable">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Startup\IStartable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
